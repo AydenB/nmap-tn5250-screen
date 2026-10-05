@@ -1,0 +1,15 @@
+This project is distributed under the same license as Nmap.
+
+The tn5250-screen NSE script and the tn5250.lua library are intended to be
+usable and distributable under the Nmap Public Source License, consistent
+with the scripts bundled with Nmap. See:
+
+    https://nmap.org/book/man-legal.html
+    https://nmap.org/npsl/
+
+The script header declares:
+
+    license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
+
+If you redistribute this script, include this notice and the upstream Nmap
+licensing terms.

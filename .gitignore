@@ -1,0 +1,8 @@
+# nmap transient output
+*.nmap
+*.gnmap
+*.xml
+/tmp/
+# editor/OS cruft
+*~
+.DS_Store
